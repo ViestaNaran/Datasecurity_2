@@ -1,0 +1,24 @@
+{
+  "users" : [
+    {
+      "firstName": "Georg",
+      "password": "Aktieselskab",
+      "hashedPassword":"bf9df0afccc324a2f38abfe764d5b35b1417e078006ac0fe58a7dc6d23ccd4eaabccfa9da9c6e65bdff585b6450feb5ab7ff852974bddc32dd45a67e837d3712"
+    },
+    {
+      "firstName": "Morten",
+      "password": "Ondskabs",
+      "hashedPassword": "6bc47e5b85fcc662506060160b9daf28ec2c138bb8d9e4802dee60e526c0b7547a4a86c8807170283d6fa25596f54604ef19c68476307cafa1e1f0cf410e36fb"
+    },
+    {
+      "firstName": "Thomas",
+      "password": "Doofenshmirtzs",
+      "hashedPassword": "78557a21ec5c3132c11f541c8abb0fa452c4f8cd897d23b1407bde82728b4d32d59e2e3f85f63cc3b8df19fb44fcd0f61eb1d3d378dae65a35e1ba2a22b980e5"
+    },
+    {
+      "firstName": "Alice",
+      "password": "Test",
+      "hashedPassword": "c6ee9e33cf5c6715a1d148fd73f7318884b41adcb916021e2bc0e800a5c5dd97f5142178f6ae88c8fdd98e1afb0ce4c8d2c54b5f37b30b7da1997bb33b0b8a31"
+    }
+  ]
+}
